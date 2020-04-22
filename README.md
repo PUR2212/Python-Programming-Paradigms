@@ -2,5 +2,4 @@
 
  https://pur2212.github.io/Python-Programming-Paradigms/
  
- This site is not responsive (i.e it do not work properly for small screens).
- Kindly use laptop or big screen to fetch the content of this site.
+ Use laptop or big screen for better view.
